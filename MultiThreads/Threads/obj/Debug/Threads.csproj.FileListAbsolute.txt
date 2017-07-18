@@ -1,0 +1,6 @@
+D:\Projects\果壳中的C#\MultiThreads\MultiThreads\Threads\bin\Debug\Threads.exe.config
+D:\Projects\果壳中的C#\MultiThreads\MultiThreads\Threads\bin\Debug\Threads.exe
+D:\Projects\果壳中的C#\MultiThreads\MultiThreads\Threads\bin\Debug\Threads.pdb
+D:\Projects\果壳中的C#\MultiThreads\MultiThreads\Threads\obj\Debug\Threads.csprojResolveAssemblyReference.cache
+D:\Projects\果壳中的C#\MultiThreads\MultiThreads\Threads\obj\Debug\Threads.exe
+D:\Projects\果壳中的C#\MultiThreads\MultiThreads\Threads\obj\Debug\Threads.pdb
